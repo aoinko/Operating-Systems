@@ -1,0 +1,2 @@
+Memory Management
+The operating system manages the primary memory, which is accessed directly by the CPU. It moves memory around and keeps track of where it has been allocated. It is also separate from external storage such as disk drives.
