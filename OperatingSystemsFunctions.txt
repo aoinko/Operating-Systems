@@ -3,3 +3,6 @@ The operating system manages the primary memory, which is accessed directly by t
 
 Data Security
 Operating systems have a protection system in place, in case an unauthorized user attempts to access data the data stored on the computer. These protections are put in place in the form of passwords and other forms of authentication. Antivirus software is another way to protect your computer.
+
+Process Management
+Operating systems executes tasks, or processes, in order to share and exchange information. The operating system creates, schedules, and terminates processes. It manages them by scheduling and allocating resources. 
